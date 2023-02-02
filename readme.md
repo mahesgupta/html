@@ -13,3 +13,5 @@ fourth commit from git
 
 sixth commit from featur1
 fifth commit from feature2
+
+seventh commit from feature2
