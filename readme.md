@@ -10,4 +10,6 @@ third commit from github because second one was from git
 
 fourth commit from git
 
+
+sixth commit from featur1
 fifth commit from feature2
